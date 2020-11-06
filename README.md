@@ -1,15 +1,3 @@
-git使用：
-
-1.克隆项目：git clone git@github.com:freedom6868/wangyishop.git
-
-2.进入项目文件夹：cd 项目文件名
-
-3.添加远程地址： git remote add origin git@github.com:freedom6868/wangyishop.git
-
-4.拉取远程分支： git checkout -b dev origin/dev
-
-
-
 运行小程序前提： 
 
 创建.gitignore文件，添加需要忽略的文件（小程序打包文件）[unpackage/]文件必须忽略，否则抛错
